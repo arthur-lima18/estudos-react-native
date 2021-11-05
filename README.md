@@ -4,6 +4,7 @@
 <h4>Para compilar e visualizar o aplicativo os seguintes passos devem ser seguidos:</h4>
 <p>'npm install' ou 'yarn install'</br>
 'npx react-native start'</br></p>
+</br>
 
 <h4>Após os comandos acima, deve-se abrir o emulador ou conectar o smartphone via aplicativo Expo ou via cabo USB diretamente no computador e utilizar o comando abaixo:</h4>
 <p>'npx react-native run-android' ou 'npx react-native run-ios'</p>

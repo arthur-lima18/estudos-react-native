@@ -1,10 +1,10 @@
 # react-native-hooks-e-context-api-cod3r
-<h3>Aplicativo em React Native desenvolvido em um dos módulos do curso da plataforma COD3R(https://www.cod3r.com.br/courses/react-native-crud), tendo foco no desenvolvimento de um CRUD de usuários utilizando Hooks e Context API</h3>
+<h3>Aplicativo em React Native com CRUD de usuários </h3>
+<p>Desenvolvido em um dos módulos do curso da plataforma COD3R(https://www.cod3r.com.br/courses/react-native-crud), tendo foco no desenvolvimento de um CRUD de usuários utilizando Hooks e Context API</p>
 
 <h4>Para compilar e visualizar o aplicativo os seguintes passos devem ser seguidos:</h4>
 <p>'npm install' ou 'yarn install'</br>
 'npx react-native start'</br></p>
-</br>
 
 <h4>Após os comandos acima, deve-se abrir o emulador ou conectar o smartphone via aplicativo Expo ou via cabo USB diretamente no computador e utilizar o comando abaixo:</h4>
 <p>'npx react-native run-android' ou 'npx react-native run-ios'</p>

@@ -1,5 +1,5 @@
 # react-native-hooks-e-context-api-cod3r
-<h2>Aplicativo em React Native desenvolvido em um dos módulos do curso da plataforma COD3R(https://www.cod3r.com.br/courses/react-native-crud), tendo foco no desenvolvimento de um CRUD de usuários utilizando Hooks e Context API</h2>
+<h3>Aplicativo em React Native desenvolvido em um dos módulos do curso da plataforma COD3R(https://www.cod3r.com.br/courses/react-native-crud), tendo foco no desenvolvimento de um CRUD de usuários utilizando Hooks e Context API</h3>
 
 <h4>Para compilar e visualizar o aplicativo os seguintes passos devem ser seguidos:</h4>
 <p>'npm install' ou 'yarn install'</br>
